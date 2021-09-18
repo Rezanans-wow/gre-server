@@ -9,6 +9,7 @@
   <a href="https://github.com/Rezanans-wow/gre-server/issues/new">Report bug</a>
   ·
   <a href="https://github.com/Rezanans-wow/gre-server/issues/new">Request feature</a>
+  .
 </p>
 
 ## Best work with software ↓
