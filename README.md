@@ -11,6 +11,21 @@
   <a href="https://github.com/Rezanans-wow/gre-server/issues/new">Request feature</a>
 </p>
 
+## Let's start
+
+- [Quick start](#quick-start)
+
+
+## Quick start
+
+Several quick start options are available:
+
+- [Download the latest release](here)
+- Clone the repo: `git clone soon`
+- Install with [Bash](https://www.nuget.org/): CSS: `sh ...`
+
+
+
 ## Best work with software ↓
 [![](https://i.imgur.com/dlby7pI.png)](https://github.com/Rezanans-wow/BZ-antiddos)  [![](https://media.discordapp.net/attachments/805374579391594557/888708336340582420/unknown.png?width=128&height=172)](https://github.com/Rezanans-wow/BZ-antiddos)
 
